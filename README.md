@@ -9,7 +9,7 @@ This repository contains assessment for Machine Learning and Statistics module.
 
 - #### _The square root of 2 (sqrt2):_
 
-Calculating and printing to the screen the square root of `**2**` to `**100**` decimal places without dependency d on any module from the standard library.
+Calculating and printing to the screen the square root of **`2`** to **`100`** decimal places without dependency d on any module from the standard library.
 
 - #### _The Chi-squared test for independence:_
 
