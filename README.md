@@ -27,13 +27,15 @@ Using `Scikit-Learn` to apply _k_ Nearest Neighbours clustering to Fisher’s fa
 
 #### To run the Jupyter Notebook:
 
-1. Download and Install [`Anaconda's`](https://www.anaconda.com/) latest release from it's official and licensed source. The anaconda package includes the python code and the packages (libraries) needed for the computation and visualisation of the contetnts of the Tasks.ipynb file.
+1. Download and Install [`Anaconda's`](https://www.anaconda.com/) latest release from it's official and licensed source. The anaconda package includes the python code and the packages (libraries) needed for the computation and visualisation of the contetnts of the `Tasks.ipynb` file.
 
-2. Open the CLI or cmd on the machine navigate to the required directory insert `$ git clone` `link of the repository`
+2. Click on <span style="color:green">**`Code`**</span> icon on the upper right corner and copy the 'link' under `HTTPS` 
 
-3. Insert `jupyter notebook`
+3. Open the `CLI` or `cmd` on the machine navigate to the required directory insert `$ git clone` `link of the repository`
 
-4. A web browser is automatically initiated, where you can see the file `Tasks.ipynb`
+4. Insert `jupyter notebook`
+
+5. A web browser is automatically initiated, where you can see the file `Tasks.ipynb`
 
 ---
  #### License
